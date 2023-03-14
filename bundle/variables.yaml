@@ -1,0 +1,4 @@
+variables:
+- team: emartinez-fm
+- admin-user: EMartinez-demo-admin
+- manager-user: EMartinez-demo
